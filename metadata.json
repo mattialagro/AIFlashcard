@@ -1,0 +1,6 @@
+{
+  "name": "AI Quiz Suite: Flashcards & Milionario",
+  "description": "Una suite di giochi a quiz potenziata dall'IA. Scegli tra la modalità 'Flashcard Classiche' (studiando con i tuoi file o generando quiz) e la modalità 'Chi vuol essere Milionario?' con supporto multiplayer e aiuti IA.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
